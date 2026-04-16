@@ -59,6 +59,18 @@ export const siteConfig = {
       "Anti-Fingerprint Ultra-Matte"
     ]
   },
+  transformations: [
+    {
+      title: "Kitchen Cabinet Transformation",
+      beforeImage: "/images/kitchen_old.png",
+      afterImage: "/images/kitchen_new.png",
+    },
+    {
+      title: "Interior Wall Makeover",
+      beforeImage: "/images/wall_old.png",
+      afterImage: "/images/wall_new.png",
+    }
+  ],
   reviews: [
     {
       quote: "Completely changed the vibe of my Marina apartment. The kitchen looks like it cost 100k AED, but we only spent a fraction. The marble wrap is incredible.",
@@ -75,5 +87,57 @@ export const siteConfig = {
       author: "Michael R.",
       location: "Business Bay",
     },
+  ],
+  completedWorks: [
+    {
+      title: "Luxury Marble Kitchen",
+      category: "Kitchen Wrapping",
+      image: "https://images.unsplash.com/photo-1722605090433-41d1183a792d?q=80&w=2070&auto=format&fit=crop",
+    },
+    {
+      title: "Matte Black Vanity",
+      category: "Bathroom Wrapping",
+      image: "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?q=80&w=2070&auto=format&fit=crop",
+    },
+    {
+      title: "Textured Feature Wall",
+      category: "Wall Wrapping",
+      image: "https://images.unsplash.com/photo-1513694203232-719a280e022f?q=80&w=2069&auto=format&fit=crop",
+    },
+    {
+      title: "Premium Office Glass",
+      category: "Glass Wrapping",
+      image: "https://images.unsplash.com/photo-1497366754035-f200968a6e72?q=80&w=2069&auto=format&fit=crop",
+    },
+    {
+      title: "Nordic Dining Setup",
+      category: "Dining Wrapping",
+      image: "https://plus.unsplash.com/premium_photo-1683140425081-14c44089acd0?q=80&w=2070&auto=format&fit=crop",
+    },
+    {
+      title: "Minimalist Kitchen Upgrade",
+      category: "Kitchen Wrapping",
+      image: "https://images.unsplash.com/photo-1556909212-d5b604d0c90d?q=80&w=2070&auto=format&fit=crop",
+    },
+    {
+      title: "Contemporary Wardrobe",
+      category: "Furniture Wrapping",
+      image: "https://images.unsplash.com/photo-1616486029423-aaa4789e8c9a?q=80&w=1932&auto=format&fit=crop",
+    },
+    // {
+    //   title: "Promotional Materials",
+    //   category: "Flyer Design",
+    //   image: "https://images.unsplash.com/photo-1586281380117-5a60ae2050cc?q=80&w=2070&auto=format&fit=crop",
+    // },
+    {
+      title: "Concrete Finish Wall",
+      category: "Wall Wrapping",
+      image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=2070&auto=format&fit=crop",
+    },
+    {
+      title: "Granite Bathroom Resurfacing",
+      category: "Bathroom Wrapping",
+      image: "https://images.unsplash.com/photo-1620626011761-996317b8d101?q=80&w=2069&auto=format&fit=crop",
+    }
   ],
 };

@@ -50,7 +50,7 @@ export default function Services() {
   }, []);
 
   return (
-    <section className="py-32 bg-surface" id="solutions" aria-label="Our services">
+    <section className="py-24 bg-surface-container-low" id="solutions" aria-label="Our services">
       <div className="site-container" ref={ref}>
         {/* Header */}
         <div className="flex flex-col md:flex-row justify-between items-end mb-20 gap-8 reveal">

@@ -23,7 +23,7 @@ export default function CTA() {
   }, []);
 
   return (
-    <section className="py-32 bg-surface" aria-label="Get a free quote">
+    <section className="py-32 bg-surface-container-low" aria-label="Get a free quote">
       <div className="site-container" ref={ref}>
         <div className="reveal bg-on-surface rounded-3xl p-12 md:p-20 relative overflow-hidden text-center md:text-left">
           {/* Background texture */}
