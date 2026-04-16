@@ -1,0 +1,6 @@
+task.txt
+.env
+node_modules
+.next
+.next/*
+test.txt
