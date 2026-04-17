@@ -77,7 +77,7 @@ export const metadata: Metadata = {
     canonical: "https://smartwrapping.ae",
   },
   icons: {
-    icon: "/favicon.ico",
+    icon: "/favicon.svg",
   },
 };
 
