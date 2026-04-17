@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Smart Advertising & Wrapping Dubai",
-  shortName: "Smart Wrapping",
+  shortName: "Smart Advertising & Wrapping",
   description: "Dubai's leading interior wrapping experts. Transform kitchens, bathrooms, furniture & walls in 24 hours with 500+ premium textures — save 70% vs full replacement.",
   url: "https://smartwrapping.ae",
   ogImage: "/og-image.jpg",
@@ -30,27 +30,27 @@ export const siteConfig = {
       alt: "Modern kitchen with charcoal grey wrapped cabinets",
     },
     {
-       title: "Bathroom & Dining",
-       description: "Moisture-resistant wraps for vanities, dining tables, and sideboards.",
-       image: "https://lh3.googleusercontent.com/aida-public/AB6AXuBZORo6bPP89rWriG4YRQq0mBzqwY3c2zyBI5ZJ3-Un-eYIWHDIJyVs3OqgkRYTZ4Jw9lMpG-Tyachg4WaaE69mXEFM3OGICt4fCOO27g4cFde2KneZHxOVPKvTkBw8I7NBq1aY00KlPkUCwJrXDwHbmqWO0mCphvsAZLeeanOD8iQb2_lykEuj-83nKun08epozgbLCYbMwqr-iloGmW1SntrrZM5VQ89BTuE5bver053FwaNKXc5wSMPEZhAxBlHkS0Hkqo2pJ6I",
-       alt: "Luxury bathroom vanity wrapped",
+      title: "Bathroom & Dining",
+      description: "Moisture-resistant wraps for vanities, dining tables, and sideboards.",
+      image: "https://lh3.googleusercontent.com/aida-public/AB6AXuBZORo6bPP89rWriG4YRQq0mBzqwY3c2zyBI5ZJ3-Un-eYIWHDIJyVs3OqgkRYTZ4Jw9lMpG-Tyachg4WaaE69mXEFM3OGICt4fCOO27g4cFde2KneZHxOVPKvTkBw8I7NBq1aY00KlPkUCwJrXDwHbmqWO0mCphvsAZLeeanOD8iQb2_lykEuj-83nKun08epozgbLCYbMwqr-iloGmW1SntrrZM5VQ89BTuE5bver053FwaNKXc5wSMPEZhAxBlHkS0Hkqo2pJ6I",
+      alt: "Luxury bathroom vanity wrapped",
     },
     {
-       title: "Furniture & Walls",
-       description: "Wardrobes, feature walls, and interior doors with seamless corner execution.",
-       image: "https://lh3.googleusercontent.com/aida-public/AB6AXuCdg7zBVstRie7qX7Xj6YxGaHwcpgaUUqWrLEir046VGFRkp1LmhcK6SJd8ocks0uBRpo8p8SR4oo5Xnd-gaYzMx3iD7L_AU9PLrs1n1pQX8Oq0mivjXZ2O-GOqlzeLn_b3BGsg0guA5e507KdBDSjsPyqp6CsP2bQuOJqY5oyVbPoO-M96QKTdgFHZwYFe1n0C07WKo17_mdp9wJC19Cg5yPnbviHYsJLcwDgVQI2EIdn5yk_YJFMusCh52LyJldJxF0xjo10-9LI",
-       alt: "Minimalist wardrobe wrapped",
+      title: "Furniture & Walls",
+      description: "Wardrobes, feature walls, and interior doors with seamless corner execution.",
+      image: "https://lh3.googleusercontent.com/aida-public/AB6AXuCdg7zBVstRie7qX7Xj6YxGaHwcpgaUUqWrLEir046VGFRkp1LmhcK6SJd8ocks0uBRpo8p8SR4oo5Xnd-gaYzMx3iD7L_AU9PLrs1n1pQX8Oq0mivjXZ2O-GOqlzeLn_b3BGsg0guA5e507KdBDSjsPyqp6CsP2bQuOJqY5oyVbPoO-M96QKTdgFHZwYFe1n0C07WKo17_mdp9wJC19Cg5yPnbviHYsJLcwDgVQI2EIdn5yk_YJFMusCh52LyJldJxF0xjo10-9LI",
+      alt: "Minimalist wardrobe wrapped",
     }
   ],
   gallery: {
     images: [
       {
-         src: "https://lh3.googleusercontent.com/aida-public/AB6AXuBeVnXcFRbk0XlVn2LYjpaY-sqrZAI6jZwuUsOKZ4ecdH8rsr7WwkLJRh_HUlG_1O9kOXRA2kYzODGDUjZq6mhJOSlOtv2sOzddJx44zZ6k_qUM92gO-US0H6PI-ORwYnSWMn_W8merJ4h3-0phEJv6PmWM1GFkkxCCrWcK2HhCbriuZFKm_51c4XveafIrhHRZwAUClU0ePP5LTSITVGZBxhKPSGzepOelegtX4O6kAQvp8pZpONSy3RBihhRURs-eRPyzBJir0Aw",
-         alt: "Wrapped corner on furniture",
+        src: "https://lh3.googleusercontent.com/aida-public/AB6AXuBeVnXcFRbk0XlVn2LYjpaY-sqrZAI6jZwuUsOKZ4ecdH8rsr7WwkLJRh_HUlG_1O9kOXRA2kYzODGDUjZq6mhJOSlOtv2sOzddJx44zZ6k_qUM92gO-US0H6PI-ORwYnSWMn_W8merJ4h3-0phEJv6PmWM1GFkkxCCrWcK2HhCbriuZFKm_51c4XveafIrhHRZwAUClU0ePP5LTSITVGZBxhKPSGzepOelegtX4O6kAQvp8pZpONSy3RBihhRURs-eRPyzBJir0Aw",
+        alt: "Wrapped corner on furniture",
       },
       {
-         src: "https://lh3.googleusercontent.com/aida-public/AB6AXuA2kG8rlTdsopH0rycvkzSFS98WSmAnM9MlHV9K8pmREk0locqgyQhgDmVUv3-xzntpFtdlcgv_U8K68Q5QcrQdj276F9u9hNyXsSLu8furyTcCJ5qwSuauid7dEbtQ49WBr3A4QxtEXOp40sazeoKsUt3z0MLLqW42uAGU3fw5by8Rvn-ZnSkFcLq2KUTw801wqy39mdqS-bg2Ytdt4IlKqOEZQNWTkrAJv01B_lZmp6Z5hxYX0ttL7TMP3FOPJdPJd44KFBoxYtw",
-         alt: "Ribbed wood architectural wrap",
+        src: "https://lh3.googleusercontent.com/aida-public/AB6AXuA2kG8rlTdsopH0rycvkzSFS98WSmAnM9MlHV9K8pmREk0locqgyQhgDmVUv3-xzntpFtdlcgv_U8K68Q5QcrQdj276F9u9hNyXsSLu8furyTcCJ5qwSuauid7dEbtQ49WBr3A4QxtEXOp40sazeoKsUt3z0MLLqW42uAGU3fw5by8Rvn-ZnSkFcLq2KUTw801wqy39mdqS-bg2Ytdt4IlKqOEZQNWTkrAJv01B_lZmp6Z5hxYX0ttL7TMP3FOPJdPJd44KFBoxYtw",
+        alt: "Ribbed wood architectural wrap",
       }
     ],
     features: [
@@ -124,11 +124,11 @@ export const siteConfig = {
       category: "Furniture Wrapping",
       image: "https://images.unsplash.com/photo-1616486029423-aaa4789e8c9a?q=80&w=1932&auto=format&fit=crop",
     },
-    // {
-    //   title: "Promotional Materials",
-    //   category: "Flyer Design",
-    //   image: "https://images.unsplash.com/photo-1586281380117-5a60ae2050cc?q=80&w=2070&auto=format&fit=crop",
-    // },
+    {
+      title: "Promotional Materials",
+      category: "Flyer Design",
+      image: "https://images.unsplash.com/photo-1586281380117-5a60ae2050cc?q=80&w=2070&auto=format&fit=crop",
+    },
     {
       title: "Concrete Finish Wall",
       category: "Wall Wrapping",

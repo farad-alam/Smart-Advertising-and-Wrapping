@@ -2,6 +2,7 @@
 
 import { useEffect, useRef } from "react";
 import Image from "next/image";
+import { siteConfig } from "../config/site";
 
 export default function CTA() {
   const ref = useRef<HTMLDivElement>(null);
@@ -50,7 +51,7 @@ export default function CTA() {
             </p>
             <div className="flex flex-col md:flex-row gap-6">
               <a
-                href="https://wa.me/971562023458"
+                href={`${siteConfig.contact.whatsapp}?text=${encodeURIComponent("Hi! I'm ready for my 24-hour interior transformation. Can we arrange a free quote and consultation?")}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="gold-sheen px-10 py-5 rounded-lg text-on-secondary font-headline font-extrabold text-lg flex items-center justify-center gap-4 hover:scale-[1.05] transition-transform duration-300"

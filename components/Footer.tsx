@@ -39,7 +39,7 @@ export default function Footer() {
             Privacy Policy
           </a>
           <a
-            href={siteConfig.contact.whatsapp}
+            href={`${siteConfig.contact.whatsapp}?text=${encodeURIComponent("Hello Smart Wrapping! I have a few questions about your architectural resurfacing services.")}`}
             target="_blank"
             rel="noopener noreferrer"
             className="text-on-surface-variant hover:text-secondary transition-colors duration-300"

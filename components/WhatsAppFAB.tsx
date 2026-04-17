@@ -14,7 +14,7 @@ export default function WhatsAppFAB() {
 
       {/* FAB */}
       <a
-        href={siteConfig.contact.whatsapp}
+        href={`${siteConfig.contact.whatsapp}?text=${encodeURIComponent("Hi! I'm browsing the website and need some quick assistance.")}`}
         target="_blank"
         rel="noopener noreferrer"
         className="w-16 h-16 bg-surface-container-lowest rounded-full flex items-center justify-center shadow-[0_20px_40px_rgba(45,52,53,0.06)] backdrop-blur-xl border border-tertiary/10 hover:scale-110 transition-transform duration-300"

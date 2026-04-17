@@ -37,7 +37,7 @@ export default function Hero() {
 
           <div className="flex flex-col sm:flex-row gap-4 items-start animate-fade-in-up animate-delay-300">
             <a
-              href={siteConfig.contact.whatsapp}
+              href={`${siteConfig.contact.whatsapp}?text=${encodeURIComponent("Hello! I'd like to get a quote for transforming my space with Smart Wrapping.")}`}
               target="_blank"
               rel="noopener noreferrer"
               className="gold-sheen px-8 py-4 rounded-lg text-on-secondary font-headline font-bold flex items-center gap-3 hover:scale-[1.02] transition-transform duration-300"
